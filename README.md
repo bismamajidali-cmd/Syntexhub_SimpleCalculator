@@ -1,2 +1,23 @@
-# Syntexhub_SimpleCalculator
-A command-line Simple Calculator built in Python.  It supports addition, subtraction, multiplication, and division.  Includes input validation and error handling for division by zero. Developed as part of Syntexhub Internship Program.
+## Sample Output
+
+===== SIMPLE CALCULATOR =====
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exit
+
+Enter your choice (1-5): 1
+Enter first number: 5
+Enter second number: 3
+Result: 8
+
+
+
+
+
+
+## Output Screenshot
+
+![Calculator Output](calculator_output.png)
+
